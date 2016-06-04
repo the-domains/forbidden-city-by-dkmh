@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Forbidden City by DKMH]]></title>
         <description><![CDATA[Forbidden City by DKMH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/forbidden-city-by-dkmh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 13:07:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 04 Jun 2016 13:08:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/forbidden-city-by-dkmh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b997819-cd37-4cd5-b082-a1a03c6741ee.jpg">]]></description>
+            <link>https://thegrid.ai/forbidden-city-by-dkmh/7030125b-2ce8-425d-8df3-f4003df493a0/index.html</link>
+            <guid isPermaLink="false">7030125b-2ce8-425d-8df3-f4003df493a0</guid>
+            <pubDate>Sat, 04 Jun 2016 13:08:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1026fef-1dfd-4c95-a0a4-80f771b67ed5.jpg">]]></description>
-            <link>undefined7e8e8d27-91d2-423e-841a-d081678e322c/index.html</link>
+            <link>https://thegrid.ai/forbidden-city-by-dkmh/7e8e8d27-91d2-423e-841a-d081678e322c/index.html</link>
             <guid isPermaLink="false">7e8e8d27-91d2-423e-841a-d081678e322c</guid>
-            <pubDate>Sat, 04 Jun 2016 13:06:46 GMT</pubDate>
+            <pubDate>Sat, 04 Jun 2016 13:06:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
